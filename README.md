@@ -8,7 +8,7 @@ This project is a 🟢 Node.js-based backend application for an 🛒 e-commerce 
 ## 🗂️ Project Structure
 
 ```
-CN-NODEJS-ECOM-API-MIDDLEWARES-IN
+ECOM-API-BACKEND-REST-API
 |-- 📂 node_modules/
 |-- 📂 src/
     |-- 📂 config/
